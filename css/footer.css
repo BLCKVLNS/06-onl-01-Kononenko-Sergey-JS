@@ -1,0 +1,10 @@
+.foooter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.foooter-contacts {
+  background: #3a3e64;
+}
